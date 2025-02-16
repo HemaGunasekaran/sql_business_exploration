@@ -18,9 +18,4 @@ This project explores sales data to assess whether **Magist** is a good fit for 
 - **Business Alignment**: Focused analysis on Eniac's strategic objectives.
 
 ## 📢 Conclusion
-This project highlights the power of data-driven decision-making in business strategy. By leveraging SQL and Tableau, I was able to extract meaningful insights that can guide Eniac’s expansion plans.
-
----
-
-🔗 **Connect with me**: linkedin.com/in/hema-gunasekaran-714437a9  
-📂 **Project Repository**:   
+This project highlights the power of data-driven decision-making in business strategy. By leveraging SQL and Tableau, I was able to extract meaningful insights that can guide Eniac’s expansion plans.  
